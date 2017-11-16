@@ -31,23 +31,24 @@ namespace Fibonacci_Kata
                 Series[i] = Series[i - 2] + Series[i - 1];
             }
 
-            Console.WriteLine(Series[number] + " is the nth number of the Fibonacci series as you requested.");
-            Console.WriteLine("Do you want to see the Fibonacci series up to the number you've chosen? Possibly answer with yes or no. ");
+            Console.WriteLine(Series[number] + " is the number of the Fibonacci series in that position of the array.");
+            Console.WriteLine("  ");
+            Console.WriteLine("Do you want to see the Fibonacci series up to the number you've chosen? Please answer yes or no. ");
             var response = Console.ReadLine();
 
             if (response == "yes")
             {
-                Console.Writeline("Please wait while we process your request ... ... ... ");
+                Console.WriteLine("Please wait while we process your request ... ... ... ");
                 Console.ReadLine();
             }
             else if (response == "no")
             {
-                Console.WriteLine("Cool bro, good choice");
+                Console.WriteLine("Cool bro, good choice.");
                 Console.ReadLine();
             }
             else
             {
-                Console.WriteLine("This option is not available. Please do not try again.")
+                Console.WriteLine("This option is not available. Please do not try again.");
                 Console.ReadLine();
             }
 
