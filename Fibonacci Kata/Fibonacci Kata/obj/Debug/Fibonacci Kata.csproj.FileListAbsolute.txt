@@ -1,0 +1,7 @@
+C:\Users\petra.barbieri\Documents\Practice_Katas\Fibonacci Kata\Fibonacci Kata\bin\Debug\Fibonacci Kata.exe.config
+C:\Users\petra.barbieri\Documents\Practice_Katas\Fibonacci Kata\Fibonacci Kata\bin\Debug\Fibonacci Kata.exe
+C:\Users\petra.barbieri\Documents\Practice_Katas\Fibonacci Kata\Fibonacci Kata\bin\Debug\Fibonacci Kata.pdb
+C:\Users\petra.barbieri\Documents\Practice_Katas\Fibonacci Kata\Fibonacci Kata\obj\Debug\Fibonacci Kata.csprojResolveAssemblyReference.cache
+C:\Users\petra.barbieri\Documents\Practice_Katas\Fibonacci Kata\Fibonacci Kata\obj\Debug\Fibonacci Kata.csproj.CoreCompileInputs.cache
+C:\Users\petra.barbieri\Documents\Practice_Katas\Fibonacci Kata\Fibonacci Kata\obj\Debug\Fibonacci Kata.exe
+C:\Users\petra.barbieri\Documents\Practice_Katas\Fibonacci Kata\Fibonacci Kata\obj\Debug\Fibonacci Kata.pdb
