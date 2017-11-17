@@ -56,6 +56,9 @@ namespace Fibonacci_Kata
         }
         
 
+        // TRY using Recursive func
+        // Complete the second part in order to print out all of the series up to the chosen position in the series
+
 
 
     }
