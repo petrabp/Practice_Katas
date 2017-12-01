@@ -19,19 +19,19 @@ namespace Fibonacci_Kata
 
         public static int FindNthNumberinSeries (int n)
         {
-            int number = n - 1;
+            var number = n - 1;
 
 
-            int[] Series = new int[number + 1];
-            Series[0] = 0;
-            Series[1] = 1;
+            var series = new int[number + 1];
+            series[0] = 0;
+            series[1] = 1;
 
-            for (int i = 2; i <= number; i++)
+            for (var i = 2; i <= number; i++)
             {
-                Series[i] = Series[i - 2] + Series[i - 1];
+                series[i] = series[i - 2] + series[i - 1];
             }
 
-            Console.WriteLine(Series[number] + " is the number of the Fibonacci series in that position of the array.");
+            Console.WriteLine(series[number] + " is the number of the Fibonacci series in that position of the array.");
             Console.WriteLine("  ");
             Console.WriteLine("Do you want to see the Fibonacci series up to the number you've chosen? Please answer yes or no. ");
             var response = Console.ReadLine();
@@ -52,7 +52,7 @@ namespace Fibonacci_Kata
                 Console.ReadLine();
             }
 
-            return Series[number];
+            return series[number];
         }
         
 

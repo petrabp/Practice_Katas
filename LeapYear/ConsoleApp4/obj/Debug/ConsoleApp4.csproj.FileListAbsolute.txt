@@ -5,3 +5,10 @@ C:\Users\petra.barbieri\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleAp
 C:\Users\petra.barbieri\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
 C:\Users\petra.barbieri\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
 C:\Users\petra.barbieri\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\petra.barbieri\Documents\Practice_Katas\LeapYear\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\petra.barbieri\Documents\Practice_Katas\LeapYear\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\petra.barbieri\Documents\Practice_Katas\LeapYear\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\petra.barbieri\Documents\Practice_Katas\LeapYear\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\petra.barbieri\Documents\Practice_Katas\LeapYear\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\petra.barbieri\Documents\Practice_Katas\LeapYear\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\petra.barbieri\Documents\Practice_Katas\LeapYear\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
