@@ -5,3 +5,10 @@ C:\Users\petra.barbieri\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleAp
 C:\Users\petra.barbieri\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
 C:\Users\petra.barbieri\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 C:\Users\petra.barbieri\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\petra.barbieri\Documents\Practice_Katas\FizzBuzzKata\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\petra.barbieri\Documents\Practice_Katas\FizzBuzzKata\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\petra.barbieri\Documents\Practice_Katas\FizzBuzzKata\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\petra.barbieri\Documents\Practice_Katas\FizzBuzzKata\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\petra.barbieri\Documents\Practice_Katas\FizzBuzzKata\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\petra.barbieri\Documents\Practice_Katas\FizzBuzzKata\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\petra.barbieri\Documents\Practice_Katas\FizzBuzzKata\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
