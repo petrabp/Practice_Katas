@@ -19,10 +19,21 @@ namespace Fibonacci_Kata
 
         public static int FindNthNumberinSeries (int n)
         {
-            var number = n - 1;
+            var number = n;
+
+            if (number <= 1 && number >= 0)
+            {
+                return number;
+            }
+            else
+            {
+                return n
+            }
+            return (number - 1) + (number - 2)
 
 
-            var series = new int[number + 1];
+            //Not using recursive function:
+            /*var series = new int[number + 1];
             series[0] = 0;
             series[1] = 1;
 
@@ -52,7 +63,7 @@ namespace Fibonacci_Kata
                 Console.ReadLine();
             }
 
-            return series[number];
+            return series[number];*/
         }
         
 
