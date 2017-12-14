@@ -8,8 +8,10 @@ namespace LeapYear2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void IsLeapYear(bool year )
+
         {
+            
         }
     }
 }
