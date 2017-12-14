@@ -8,31 +8,27 @@ namespace Fibonacci_Kata
 {
     class Program
     {
+  
         static void Main(string[] args)
         {
-            Console.WriteLine("Give me the position of the number you desire to find:");
-            int n = Int32.Parse(Console.ReadLine());
-
-            FindNthNumberinSeries(n);
+            Console.WriteLine("input number ");
+            int number = Int32.Parse(Console.ReadLine());
+            
+            fib(0, 1, 1, number);
+            Console.ReadLine();
 
         }
 
-        public static int FindNthNumberinSeries (int n)
+        public static void fib(int a, int b, int counter, int number)
         {
-            var number = n;
+            Console.WriteLine(a);
+            if (counter < number) fib(b, a+b, counter+1, number);
+        }
+            
+            
+       
 
-            if (number <= 1 && number >= 0)
-            {
-                return number;
-            }
-            else
-            {
-                return n
-            }
-            return (number - 1) + (number - 2)
-
-
-            //Not using recursive function:
+//Not using recursive function:
             /*var series = new int[number + 1];
             series[0] = 0;
             series[1] = 1;
@@ -73,4 +69,4 @@ namespace Fibonacci_Kata
 
 
     }
-}
+
